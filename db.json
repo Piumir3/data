@@ -36,7 +36,7 @@
     {
       "id": 1,
       "kind": "Solar",
-      "share": 50
+      "share": 50, 600
     },
     {
       "id": 2,
