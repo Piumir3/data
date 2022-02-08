@@ -36,22 +36,22 @@
     {
       "id": 1,
       "kind": "Solar",
-      "share": 5
+      "share": 50
     },
     {
       "id": 2,
       "kind": "Wind",
-      "share": 2
+      "share": 20
     },
     {
       "id": 3,
       "kind": "Geothermal",
-      "share": 1
+      "share": 100
     },
     {
       "id": 4,
       "kind": "Natural Gas",
-      "share": 1
+      "share": 100
     },
     {
       "id": 5,
@@ -61,17 +61,17 @@
     {
       "id": 6,
       "kind": "Hydroelectric",
-      "share": 2
+      "share": 200
     },
     {
       "id": 7,
       "kind": "Nuclear",
-      "share": 2
+      "share": 20
     },
     {
       "id": 8,
       "kind": "Other",
-      "share": 1
+      "share": 100
     }
   ],
 
