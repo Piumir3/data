@@ -63,16 +63,7 @@
       "kind": "Hydroelectric",
       "share": 200
     },
-    {
-      "id": 7,
-      "kind": "Nuclear",
-      "share": 20
-    },
-    {
-      "id": 8,
-      "kind": "Other",
-      "share": 100
-    }
+   
   ],
 
 
