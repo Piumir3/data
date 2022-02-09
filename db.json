@@ -35,7 +35,7 @@
   "pieData": [
     {
       "id": 1,
-      "kind": "Solar",
+      "kind": "SolarSystem",
       "share": 50
     },
     {
