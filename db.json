@@ -143,51 +143,6 @@
       "service": "Service 2",
       "value": 15
     }
-  ],
-   
-  " summary": [
-    {
-      "categoryId": 1,
-      "categoryName": "Product 1",
-      "categoryDesc": "Abc",
-      "serviceId": 1,
-      "serviceName": "Total sales",
-      "serviceDesc": "1.2M",
-      "isActive": 1
-    },
-    {
-      "categoryId": 1,
-      "categoryName": "Product 1",
-      "categoryDesc": "Abc",
-      "serviceId": 1,
-      "serviceName": "Total sales",
-      "serviceDesc": "1.2M",
-    },
-    {
-      "categoryId": 1,
-      "categoryName": "Product 1",
-      "categoryDesc": "Abc",
-      "serviceId": 1,
-      "serviceName": "Total sales",
-      "serviceDesc": "1.2M",    },
-    {
-      "categoryId": 1,
-      "categoryName": "Product 1",
-      "categoryDesc": "Abc",
-      "serviceId": 1,
-      "serviceName": "Total sales",
-      "serviceDesc": "1.2M",
-    },
-    {
-      "categoryId": 1,
-      "categoryName": "Product 1",
-      "categoryDesc": "Abc",
-      "serviceId": 1,
-      "serviceName": "Total sales",
-      "serviceDesc": "1.2M",
-    }
-
-
   ]
 }
 
