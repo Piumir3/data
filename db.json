@@ -144,7 +144,8 @@
       "value": 15
     }
   ],
-  summary: any = [
+   
+  " summary": [
     {
       "categoryId": 1,
       "categoryName": "Product 1",
