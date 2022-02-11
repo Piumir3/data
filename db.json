@@ -143,6 +143,14 @@
       "service": "Service 2",
       "value": 15
     }
-  ]
+  ],
+   "data" :[
+      {
+        type:"a"
+      },
+      {
+        type:"b"
+      }
+    ]
 }
 
