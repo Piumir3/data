@@ -146,10 +146,10 @@
   ],
    "data" :[
       {
-        type:"a"
+        "type":"a"
       },
       {
-        type:"b"
+        "type":"b"
       }
     ]
 }
